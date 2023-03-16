@@ -11,12 +11,9 @@
     "react-scripts": "^5.0.1",
     "uuid": "^8.3.2",
     "uuidv4": "^6.2.6",
-    "web-vitals": "^3.0.0",
-    "homepage": "http://Kajal-CN.github.io/React_Contact_List"
+    "web-vitals": "^3.0.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
